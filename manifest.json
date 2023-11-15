@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "awswitcheroo",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "js": ["script.js"],
+      "matches": [
+        "https://*.awsapps.com/start*",
+        "https://signin.aws.amazon.com/federation*"
+      ]
+    }
+  ]
+}

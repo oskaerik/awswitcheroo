@@ -7,7 +7,7 @@ Based on: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_en
 ## Installation
 
 1. Clone this repo
-1. Open [chrome://extensions](chrome://extensions/)
+1. Open `chrome://extensions`
 1. Enable `Developer mode` (top right corner)
 1. Click `Load unpacked` and select the cloned repo
 

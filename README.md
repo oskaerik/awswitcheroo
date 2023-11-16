@@ -1,8 +1,8 @@
 # awswitcheroo
 
-A silly way to log into multiple AWS accounts.
+A silly Chrome extension that allows you to log into multiple AWS accounts without jumping through hoops.
 
-Based on: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html
+Generates a [console URL](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html#STSConsoleLink_manual) in the `Command line or programmatic access` modal.
 
 ## Installation
 

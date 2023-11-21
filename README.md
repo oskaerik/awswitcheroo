@@ -4,7 +4,7 @@ A silly Chrome extension that allows you to log into multiple AWS accounts witho
 
 ## Usage
 
-The extension generates a [console custom URL](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html#STSConsoleLink_manual) in the `Command line or programmatic access` modal, which can be opened in an incognito window and gives instant access to the AWS Management Console.
+The extension generates an [STS console link](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html#STSConsoleLink_manual) in the `Command line or programmatic access` modal, which can be opened in an incognito window and gives instant access to the AWS Management Console.
 
 1. Go to your account selection page, usually something like `https://abc123.awsapps.com/start`
 1. Click `Command line or programmatic access` for the account you want to log into
